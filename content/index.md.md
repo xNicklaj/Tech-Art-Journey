@@ -1,5 +1,4 @@
-Link: [Miro](https://miro.com/app/board/uXjVGyV4WJU=/?share_link_id=971672331595)
-
+Link: [Board Miro](https://miro.com/app/board/uXjVGyV4WJU=/?share_link_id=971672331595), [[Task]]
 ## Timeline
 
 ```chronos
