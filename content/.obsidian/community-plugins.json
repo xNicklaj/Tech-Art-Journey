@@ -10,5 +10,6 @@
   "lazy-plugins",
   "url-into-selection",
   "convert-url-to-iframe",
-  "note-toolbar"
+  "note-toolbar",
+  "chronos"
 ]
