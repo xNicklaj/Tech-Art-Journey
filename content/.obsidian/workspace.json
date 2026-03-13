@@ -4,26 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "460ac3c8a8a41fb5",
+        "id": "da22f89c17dd5dda",
         "type": "tabs",
         "children": [
           {
-            "id": "b479785e311404a6",
+            "id": "30ae4f054a18b442",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Task.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "index.md.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Task"
+              "icon": "lucide-file",
+              "title": "index.md"
             }
           }
         ]
@@ -83,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 277.5
   },
   "right": {
     "id": "2ce8fc987998be47",
@@ -192,14 +187,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "81c24f12cb50d8bd",
+  "active": "30ae4f054a18b442",
   "lastOpenFiles": [
+    "Task.md",
     "index.md.md",
     "Showcase 1/Assignment 1/Drawing 2026-03-13 15.44.02.excalidraw.md",
     "Showcase 1/Assignment 1/Attachments/Pasted Image 20260313154659_479.png",
     "Showcase 1/Assignment 1/Attachments",
     "Pasted Image 20260313154409_219.png",
-    "Task.md",
     "Showcase 1/Assignment 1",
     "Showcase 3/Assignment 5",
     "Showcase 3/Assignment 4",
