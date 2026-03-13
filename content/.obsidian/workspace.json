@@ -192,8 +192,7 @@
       "obsidian-livesync:Show Log": false,
       "obsidian-livesync:Replicate": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-livesync:Show Customization sync": false
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "7f4f45248a7d8ae3",
