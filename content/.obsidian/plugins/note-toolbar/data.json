@@ -1,0 +1,263 @@
+{
+  "debugEnabled": false,
+  "defaultToolbar": "8c9e0506-9ef0-41a3-b841-d8e7f3ff706c",
+  "editorMenuAsToolbar": false,
+  "editorMenuToolbar": null,
+  "emptyViewToolbar": null,
+  "export": {
+    "includeIcons": true,
+    "replaceVars": true,
+    "useDataEls": true,
+    "useIds": true
+  },
+  "folderMappings": [],
+  "icon": "circle-ellipsis",
+  "keepPropsState": false,
+  "lockCallouts": false,
+  "obsidianUiVisibility": {},
+  "onboarding": {
+    "startup-help-view": true,
+    "startup-help-welcome": true,
+    "default-8c9e0506-9ef0-41a3-b841-d8e7f3ff706c": true
+  },
+  "ribbonAction": "toolbar",
+  "ribbonToolbar": null,
+  "rules": [],
+  "scriptingEnabled": false,
+  "showEditInFabMenu": false,
+  "showLaunchpad": false,
+  "showToolbarIn": {
+    "audio": false,
+    "bases": false,
+    "canvas": false,
+    "image": false,
+    "kanban": false,
+    "pdf": false,
+    "video": false
+  },
+  "showToolbarInFileMenu": false,
+  "showToolbarInOther": "",
+  "showWhatsNew": true,
+  "textToolbar": null,
+  "textToolbarOnKeyboard": true,
+  "toolbarProp": "notetoolbar",
+  "toolbars": [
+    {
+      "uuid": "8c9e0506-9ef0-41a3-b841-d8e7f3ff706c",
+      "commandPosition": "float",
+      "customClasses": "",
+      "defaultItem": null,
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "hasCommand": false,
+      "items": [
+        {
+          "uuid": "ad72a7f3-cd6c-4b05-9c7c-90cefbf3b2c8",
+          "icon": "lucide-youtube",
+          "label": "Youtube Embed",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "Add embed",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "editor:insert-embed",
+            "hasVars": false,
+            "type": "command"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "all"
+          }
+        },
+        {
+          "uuid": "bb886851-f2e3-4916-9d02-894bd0608126",
+          "icon": "lucide-image-off",
+          "label": "Clean Images",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "Clear Unused Images: Clear Unused Images",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "oz-clear-unused-images:clear-images-obsidian",
+            "hasVars": false,
+            "type": "command"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "all"
+          }
+        },
+        {
+          "uuid": "e7fe5da3-76ac-4763-95d5-586c7990a158",
+          "icon": "",
+          "label": "",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "",
+            "hasVars": false,
+            "type": "separator"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "all"
+          }
+        },
+        {
+          "uuid": "1c5ba778-ec3f-490d-9619-2f767c61ef20",
+          "icon": "lucide-download",
+          "label": "Download",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "Git: Pull",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "obsidian-git:pull",
+            "hasVars": false,
+            "type": "command"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "all"
+          }
+        },
+        {
+          "uuid": "5e7040ab-326f-42e8-bdb3-cc6b79491c78",
+          "icon": "lucide-upload",
+          "label": "Upload",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "Git: Commit-and-sync",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "obsidian-git:push",
+            "hasVars": false,
+            "type": "command"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "all"
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Default",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2026-03-13T14:21:53.341Z"
+    }
+  ],
+  "version": 20260122.1,
+  "webviewerToolbar": null,
+  "whatsnew_version": "1.29"
+}
