@@ -55,6 +55,42 @@
       "hasCommand": false,
       "items": [
         {
+          "uuid": "4df139f2-fefc-409b-ae7a-f20ba0b5d82e",
+          "icon": "lucide-alarm-clock-check",
+          "label": "Task",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "Tasks: Create or edit task",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "obsidian-tasks-plugin:edit-task",
+            "hasVars": false,
+            "type": "command"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "all"
+          }
+        },
+        {
           "uuid": "ad72a7f3-cd6c-4b05-9c7c-90cefbf3b2c8",
           "icon": "lucide-youtube",
           "label": "Youtube Embed",
@@ -254,7 +290,7 @@
           }
         }
       },
-      "updated": "2026-03-13T14:21:53.341Z"
+      "updated": "2026-03-13T17:13:01.610Z"
     }
   ],
   "version": 20260122.1,

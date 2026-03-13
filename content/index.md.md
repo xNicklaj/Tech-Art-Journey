@@ -1,6 +1,6 @@
 Link: [Board Miro](https://miro.com/app/board/uXjVGyV4WJU=/?share_link_id=971672331595), [[Task]], [Github Strada](https://francescostrada.github.io/TA-4-cinema-and-game/)
 
-```task
+```tasks
 ```
 ## Timeline
 
