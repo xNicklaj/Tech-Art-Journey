@@ -12,5 +12,6 @@
   "convert-url-to-iframe",
   "note-toolbar",
   "chronos",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "obsidian-livesync"
 ]

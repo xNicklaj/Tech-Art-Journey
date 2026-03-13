@@ -41,6 +41,18 @@
       },
       "url-into-selection": {
         "startupType": "instant"
+      },
+      "chronos": {
+        "startupType": "instant"
+      },
+      "obsidian-excalidraw-plugin": {
+        "startupType": "instant"
+      },
+      "obsidian-livesync": {
+        "startupType": "instant"
+      },
+      "obsidian-tasks-plugin": {
+        "startupType": "disabled"
       }
     }
   }
