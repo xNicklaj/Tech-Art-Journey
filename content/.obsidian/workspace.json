@@ -27,36 +27,19 @@
             }
           },
           {
-            "id": "b0bb4bf3c7931643",
+            "id": "448f968a15ef27dc",
             "type": "leaf",
             "state": {
-              "type": "chronos-changelog-view",
-              "state": {},
-              "icon": "info",
-              "title": "What's New in Chronos Timeline"
-            }
-          },
-          {
-            "id": "52b3f3149f3ed268",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
+              "type": "excalidraw",
               "state": {
-                "file": "Task.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "Showcase 1/Assignment 1/Drawing 2026-03-13 15.44.02.excalidraw.md"
               },
-              "icon": "lucide-trello",
-              "title": "Task"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-13 15.44.02.excalidraw"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,11 +201,15 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "81c24f12cb50d8bd",
+  "active": "448f968a15ef27dc",
   "lastOpenFiles": [
+    "Pasted Image 20260313154409_219.png",
+    "Task.md",
+    "Showcase 1/Assignment 1/Drawing 2026-03-13 15.44.02.excalidraw.md",
     "Showcase 1/Assignment 1",
     "Showcase 3/Assignment 5",
     "Showcase 3/Assignment 4",
@@ -233,7 +220,6 @@
     "Showcase 1",
     "Risorse",
     "index.md.md",
-    "Task.md",
     "Untitled.md"
   ]
 }
