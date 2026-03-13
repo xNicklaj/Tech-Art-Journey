@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Onboarding Unreal Engine Orientation – Technical Art per il cinema e i videogiochi.md",
+                "file": "index.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Onboarding Unreal Engine Orientation – Technical Art per il cinema e i videogiochi"
+              "title": "index.md"
             }
           }
         ]
@@ -191,13 +191,14 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "81c24f12cb50d8bd",
+  "active": "30ae4f054a18b442",
   "lastOpenFiles": [
-    "Clippings",
+    "Showcase 3/Assignment 4/Uccidere Federico.md",
     "Risorse/30 Years of Unreal Evolution.md",
-    "Clippings/Onboarding Unreal Engine Orientation – Technical Art per il cinema e i videogiochi.md",
-    "index.md.md",
     "Task.md",
+    "index.md.md",
+    "Clippings/Onboarding Unreal Engine Orientation – Technical Art per il cinema e i videogiochi.md",
+    "Clippings",
     "Showcase 1/Assignment 1/Drawing 2026-03-13 15.44.02.excalidraw.md",
     "Showcase 1/Assignment 1/Attachments/Pasted Image 20260313154659_479.png",
     "Showcase 1/Assignment 1/Attachments",
@@ -210,7 +211,6 @@
     "Showcase 3",
     "Showcase 2",
     "Showcase 1",
-    "Risorse",
     "Untitled.md"
   ]
 }

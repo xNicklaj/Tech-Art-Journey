@@ -10,6 +10,7 @@ kanban-plugin: board
 
 ## FINITO
 
+- [ ] Uccidere Alby
 
 
 
