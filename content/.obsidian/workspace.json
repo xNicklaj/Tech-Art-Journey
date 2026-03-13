@@ -11,19 +11,14 @@
             "id": "7f4f45248a7d8ae3",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Task.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false
-                  ]
-                }
+                "file": "Clippings/Onboarding Unreal Engine Orientation – Technical Art per il cinema e i videogiochi.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Task"
+              "icon": "lucide-file",
+              "title": "Onboarding Unreal Engine Orientation – Technical Art per il cinema e i videogiochi"
             }
           }
         ]
@@ -192,19 +187,22 @@
       "obsidian-livesync:Show Log": false,
       "obsidian-livesync:Replicate": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-livesync:Show Customization sync": false
     }
   },
   "active": "7f4f45248a7d8ae3",
   "lastOpenFiles": [
+    "Risorse/Unity to Unreal Engine Overview  Unreal Engine 5.7 Documentation  Epic Developer Community.md",
+    "Risorse/Unity to Unreal Engine.md",
+    "index.md.md",
+    "Task.md",
     "Showcase 1/Assignment 1/Drawing 2026-03-13 18.25.11.excalidraw.md",
     "Risorse/30 Years of Unreal Evolution.md",
     "Clippings/Onboarding Unreal Engine Orientation – Technical Art per il cinema e i videogiochi.md",
     "Showcase 1/Assignment 1/Attachments/Pasted Image 20260313182553_516.png",
     "Showcase 1/Assignment 1/Attachments",
-    "index.md.md",
     "Showcase 3/Assignment 4/Uccidere Federico.md",
-    "Task.md",
     "Clippings",
     "Showcase 1/Assignment 1/Drawing 2026-03-13 15.44.02.excalidraw.md",
     "Showcase 1/Assignment 1/Attachments/Pasted Image 20260313154659_479.png",

@@ -8,7 +8,7 @@ description:
 tags:
   - "clippings"
 ---
-Note
+
 
 **Slides:** [Open presentation](https://francescostrada.github.io/TA-4-cinema-and-game/topics/01-onboarding/slides.html)
 
