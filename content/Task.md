@@ -10,7 +10,7 @@ kanban-plugin: board
 
 ## FINITO
 
-- [x] Uccidere Alby ✅ 2026-03-13
+- [ ] Uccidere Alby
 
 
 
