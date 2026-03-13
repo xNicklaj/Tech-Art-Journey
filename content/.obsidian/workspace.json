@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "Task.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -23,7 +23,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "title": "Task"
             }
           },
           {
@@ -42,7 +42,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Untitled Kanban.md",
+                "file": "Task.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
                   "list-collapse": [
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "title": "Task"
             }
           }
         ],
@@ -221,10 +221,19 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "52b3f3149f3ed268",
+  "active": "81c24f12cb50d8bd",
   "lastOpenFiles": [
+    "Showcase 1/Assignment 1",
+    "Showcase 3/Assignment 5",
+    "Showcase 3/Assignment 4",
+    "Showcase 2/Assignment 3",
+    "Showcase 2/Assignment 2",
+    "Showcase 3",
+    "Showcase 2",
+    "Showcase 1",
+    "Risorse",
     "index.md.md",
-    "Untitled Kanban.md",
+    "Task.md",
     "Untitled.md"
   ]
 }
