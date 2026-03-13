@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md.md",
+                "file": "Risorse/30 Years of Unreal Evolution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index.md"
+              "title": "30 Years of Unreal Evolution"
+            }
+          },
+          {
+            "id": "4b7c25844cb81d66",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Showcase 1/Assignment 1/Drawing 2026-03-13 18.25.11.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-13 18.25.11.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,17 +204,19 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "30ae4f054a18b442",
+  "active": "4b7c25844cb81d66",
   "lastOpenFiles": [
-    "Showcase 3/Assignment 4/Uccidere Federico.md",
-    "index.md.md",
-    "Task.md",
-    "Clippings/Onboarding Unreal Engine Orientation – Technical Art per il cinema e i videogiochi.md",
+    "Showcase 1/Assignment 1/Attachments/Pasted Image 20260313182553_516.png",
+    "Showcase 1/Assignment 1/Attachments",
     "Risorse/30 Years of Unreal Evolution.md",
+    "Showcase 1/Assignment 1/Drawing 2026-03-13 18.25.11.excalidraw.md",
+    "Clippings/Onboarding Unreal Engine Orientation – Technical Art per il cinema e i videogiochi.md",
+    "index.md.md",
+    "Showcase 3/Assignment 4/Uccidere Federico.md",
+    "Task.md",
     "Clippings",
     "Showcase 1/Assignment 1/Drawing 2026-03-13 15.44.02.excalidraw.md",
     "Showcase 1/Assignment 1/Attachments/Pasted Image 20260313154659_479.png",
-    "Showcase 1/Assignment 1/Attachments",
     "Pasted Image 20260313154409_219.png",
     "Showcase 1/Assignment 1",
     "Showcase 3/Assignment 5",
