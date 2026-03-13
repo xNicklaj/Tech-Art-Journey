@@ -11,14 +11,19 @@
             "id": "b479785e311404a6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "index.md.md",
-                "mode": "source",
-                "source": false
+                "file": "Task.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "index.md"
+              "icon": "lucide-trello",
+              "title": "Task"
             }
           }
         ]
@@ -187,11 +192,13 @@
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "b479785e311404a6",
+  "active": "81c24f12cb50d8bd",
   "lastOpenFiles": [
+    "index.md.md",
     "Showcase 1/Assignment 1/Drawing 2026-03-13 15.44.02.excalidraw.md",
     "Showcase 1/Assignment 1/Attachments/Pasted Image 20260313154659_479.png",
     "Showcase 1/Assignment 1/Attachments",
@@ -206,7 +213,6 @@
     "Showcase 2",
     "Showcase 1",
     "Risorse",
-    "index.md.md",
     "Untitled.md"
   ]
 }
