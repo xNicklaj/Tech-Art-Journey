@@ -25,12 +25,14 @@
             "id": "4b7c25844cb81d66",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Showcase 1/Assignment 1/Attachments/Pasted Image 20260313182553_516.png"
+                "file": "index.md.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted Image 20260313182553_516"
+              "icon": "lucide-file",
+              "title": "index.md"
             }
           }
         ],
@@ -204,13 +206,13 @@
       "obsidian-livesync:Show Customization sync": false
     }
   },
-  "active": "81c24f12cb50d8bd",
+  "active": "4b7c25844cb81d66",
   "lastOpenFiles": [
+    "Showcase 1/Assignment 1/Attachments/Pasted Image 20260313182553_516.png",
     "index.md.md",
     "Kanban.md",
     "Showcase 1/Assignment 1/Drawing 2026-03-13 18.25.11.excalidraw.md",
     "Risorse/Unity to Unreal Engine Overview  Unreal Engine 5.7 Documentation  Epic Developer Community.md",
-    "Showcase 1/Assignment 1/Attachments/Pasted Image 20260313182553_516.png",
     "Showcase 1/Assignment 1/Attachments",
     "Risorse/30 Years of Unreal Evolution.md",
     "Clippings/Onboarding Unreal Engine Orientation – Technical Art per il cinema e i videogiochi.md",
