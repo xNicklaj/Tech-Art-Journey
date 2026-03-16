@@ -202,8 +202,7 @@
       "obsidian-git:Open Git source control": false,
       "omnisearch:Omnisearch": false,
       "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-livesync:Show Customization sync": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "4b7c25844cb81d66",
